@@ -1,0 +1,1 @@
+# My Module Slides\n\nPlace your converted slide files in this folder. PDF, Markdown (`.md`), and text (`.txt`) files work well.\n\n## Teaching instructions\n\nTeach me one topic at a time in simple language. Use the slide files in this folder, give examples, ask me a short question after each topic, and wait for my answer before continuing.\n
